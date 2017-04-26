@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         // Force links and redirects to open in the WebView instead of in a browser
         mWebView.setWebViewClient(new WebViewClient());
 
-        mWebView.loadUrl("http://www.google.com");
+        mWebView.loadUrl("http://138.197.107.234/");
     }
 
     @Override
